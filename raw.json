@@ -1,6 +1,14 @@
-{
-  "token": [
-    "8404060368:AAED7-NPEwxnWlaU8zz7A2jT_eEXExLX3Ig",
-    "8229088190:AAFz_FCn24LSSEZU-6Vr13UvE8lnlZpw4X4"
-  ]
-}
+[
+  {
+    "username": "admin",
+    "password": "12345"
+  },
+  {
+    "username": "test",
+    "password": "test123"
+  },
+  {
+    "username": "rizz",
+    "password": "modx"
+  }
+]
