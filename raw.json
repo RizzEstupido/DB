@@ -1,14 +1,5 @@
-[
-  {
-    "username": "admin",
-    "password": "12345"
-  },
-  {
-    "username": "test",
-    "password": "test123"
-  },
-  {
-    "username": "rizz",
-    "password": "modx"
-  }
-]
+{
+  "tokens": [
+    "Jdbekgig:ugu"
+  ]
+}
